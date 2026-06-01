@@ -1,4 +1,6 @@
-## Hi there | IAM CHAVAN GANESH DATTA
+## Hi there👋 IAM CHAVAN GANESH DATTA
+
+## GitHUB Stats
 <img
        src="https://commitpulse.vercel.app/api/streak?user=chavanGaneshDatta&day=30&bg=0d1117&accent=a855f7&scale=log&refresh=true&size=large"/>
 </p>
