@@ -1,4 +1,7 @@
 ## Hi there 👋
+<img
+       src="https://commitpulse.vercel.app/api/streak?user=chavanGaneshDatta&day=30&bg=0d1117&accent=a855f7&scale=log&refresh=true&size=large"/>
+</p>
 
 <!--
 **chavanGaneshDatta/chavanGaneshDatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
